@@ -12,7 +12,7 @@ There are three ranges divided according to the results of BMI.
 
 Commonly accepted BMI ranges are
 
-Under 18.5 kgm^2 - underweight
+Under 18.5 kg/m^2 - underweight
 
 From above 18.5 to under 25 - healthy weight
 
